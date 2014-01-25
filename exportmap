@@ -1,0 +1,5 @@
+{
+global: PyInit_Part;
+local: *;
+};
+

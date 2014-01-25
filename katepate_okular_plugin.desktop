@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Kate/PythonPlugin
+X-KDE-Library=okular_plugin
+Name=Okular Plugin
+Comment=Preview files in sidepanel, includes synctex sup.
+X-Python-2-Compatible=false

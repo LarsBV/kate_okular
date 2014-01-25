@@ -1,0 +1,69 @@
+Action (0) go_goto_page: Go to Page
+Action (1) go_previous: Previous
+Action (2) go_next: Next
+Action (3) first_page: Beginning of the document
+Action (4) last_page: End of the document
+Action (5) bookmark_add: Add Bookmark
+Action (6) rename_bookmark: Rename Bookmark
+Action (7) previous_bookmark: Previous Bookmark
+Action (8) next_bookmark: Next Bookmark
+Action (9) edit_find: Find
+Action (10) edit_find_next: Find Next
+Action (11) edit_find_prev: Find Previous
+Action (12) options_configure: Configure Viewer
+Action (13) options_configure_generators: Configure Backends
+Action (14) file_print_preview: Print Preview
+Action (15) properties: Properties
+Action (16) help_about_backend: About Backend
+Action (17) file_reload: Reload
+Action (18) close_find_bar: Close Find Bar
+Action (19) page_number: Page Number
+Action (20) edit_copy: Copy
+Action (21) edit_select_all: Select All
+Action (22) file_save_copy: Save Copy As
+Action (23) file_save_as: Save As
+Action (24) show_leftpanel: Show Navigation Panel
+Action (25) show_bottombar: Show Page Bar
+Action (26) embedded_files: Embedded Files
+Action (27) file_export_as: Export As
+Action (28) presentation: Presentation
+Action (29) import_ps: Import PostScript as PDF
+Action (30) switch_blackscreen_mode: Switch Blackscreen Mode
+Action (31) presentation_drawing_mode: Toggle Drawing Mode
+Action (32) presentation_erase_drawings: Erase Drawings
+Action (33) options_configure_annotations: Configure Annotations
+Action (34) zoom_to: Zoom
+Action (35) view_zoom_in: Zoom In
+Action (36) view_zoom_out: Zoom Out
+Action (37) view_orientation_rotate_cw: Right
+Action (38) view_orientation_rotate_ccw: Left
+Action (39) view_orientation_original: Original Orientation
+Action (40) view_pagesizes: Page Size
+Action (41) view_trim_margins: Trim Margins
+Action (42) view_fit_to_width: Fit Width
+Action (43) view_fit_to_page: Fit Page
+Action (44) view_render_mode: View Mode
+Action (45) view_render_mode_single: Single Page
+Action (46) view_render_mode_facing: Facing Pages
+Action (47) view_render_mode_facing_center_first: Facing Pages (Center First Page)
+Action (48) view_render_mode_overview: Overview
+Action (49) view_continuous: Continuous
+Action (50) mouse_drag: Browse
+Action (51) mouse_zoom: Zoom
+Action (52) go_document_back: Back
+Action (53) go_document_forward: Forward
+Action (54) mouse_select: Selection
+Action (55) mouse_textselect: Text Selection
+Action (56) mouse_tableselect: Table Selection
+Action (57) mouse_toggle_annotate: Review
+Action (58) mouse_selecttools: Selection Tools
+Action (59) speak_document: Speak Whole Document
+Action (60) speak_current_page: Speak Current Page
+Action (61) speak_stop_all: Stop Speaking
+Action (62) view_scroll_up: Scroll Up
+Action (63) view_scroll_down: Scroll Down
+Action (64) view_scroll_page_up: Scroll Page Up
+Action (65) view_scroll_page_down: Scroll Page Down
+Action (66) view_toggle_forms: Show Forms
+Action (67) edit_undo: Undo
+Action (68) edit_redo: Redo
