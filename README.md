@@ -14,7 +14,7 @@ Installation
   Symlink this directory, and the .desktop, into the right places
 
     ln -s $(pwd) ~/.kde/share/apps/kate/pate/okular_plugin
-    ln -s $(pwd)/katepate_okular_plugin.desktop ~/.kde4/share/kde4/services/                                                                                       [kate_okular]
+    ln -s $(pwd)/katepate_okular_plugin.desktop ~/.kde4/share/kde4/services/
 
 Default Shortcuts
 =================================================
