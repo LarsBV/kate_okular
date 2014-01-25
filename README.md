@@ -11,15 +11,10 @@ Installation
 
   This library makes setWatchFileModeEnabled() available to the plugin.
 
-  Move or symlink this directory into either of
+  Symlink this directory, and the .desktop, into the right places
 
-    /usr/share/apps/kate/pate/
-    ~/.kde/share/apps/kate/pate/
-
-  Move or symlink katepate_okular_plugin.desktop into
-
-    /usr/share/kde4/services/
-    ~/.kde4/share/kde4/services
+    ln -s $(pwd) ~/.kde/share/apps/kate/pate/okular_plugin
+    ln -s $(pwd)/katepate_okular_plugin.desktop ~/.kde4/share/kde4/services/                                                                                       [kate_okular]
 
 Default Shortcuts
 =================================================
